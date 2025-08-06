@@ -1,1 +1,0 @@
-/home/q/Go2/devel/.private/go2_control/share/go2_control/cmake/go2_controlConfig-version.cmake

@@ -1,8 +1,0 @@
-prefix=/home/q/Go2/devel/.private/go2_nav
-
-Name: go2_nav
-Description: Description of go2_nav
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

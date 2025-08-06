@@ -1,8 +1,0 @@
-prefix=/home/q/Go2/devel/.private/go2_scale
-
-Name: go2_scale
-Description: Description of go2_scale
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

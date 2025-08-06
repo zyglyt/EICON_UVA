@@ -1,1 +1,0 @@
-/home/q/Go2/devel/.private/go_arm/share/gennodejs/ros/go_arm/_index.js

@@ -1,4 +1,0 @@
-[35m[1mScanning dependencies of target point_scan[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/point_scan.dir/src/point_scan.cpp.o[0m
-[100%] [32m[1mLinking CXX executable /home/q/Go2/devel/.private/go2_slam/lib/go2_slam/point_scan[0m
-[100%] Built target point_scan

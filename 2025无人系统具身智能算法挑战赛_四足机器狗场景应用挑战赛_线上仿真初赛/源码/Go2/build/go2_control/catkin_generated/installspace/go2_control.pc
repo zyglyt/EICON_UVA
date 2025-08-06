@@ -1,8 +1,0 @@
-prefix=/home/q/Go2/install
-
-Name: go2_control
-Description: Description of go2_control
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

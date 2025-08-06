@@ -1,1 +1,0 @@
-/home/q/Go2/devel/.private/go2_scale/share/go2_scale/cmake/go2_scaleConfig-version.cmake

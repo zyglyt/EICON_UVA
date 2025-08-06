@@ -1,1 +1,0 @@
-/home/q/Go2/devel/.private/go2_nav/lib/pkgconfig/go2_nav.pc
