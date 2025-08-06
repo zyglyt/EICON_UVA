@@ -1,0 +1,7 @@
+<launch>
+  <!-- <node pkg="large_scale_model_arm" type="isaac_yolov8.py" name="isaac_yolov8" output="screen" /> -->
+  <!-- <node pkg="large_scale_model_arm" type="isaac_scale.py" name="isaac_scale" output="screen" /> -->
+  <node pkg="large_scale_model_arm" type="isaac_yolov8" name="isaac_yolov8" output="screen" />
+  <node pkg="jaka_arm" type="isaac_grasp" name="isaac_grasp" output="screen" />
+
+</launch>

@@ -1,0 +1,5 @@
+{
+    "urdf-visualizer.packages": {
+        "Meshes": "${workspaceFolder}/Content/RA/JAKA_C5_With_DH_PGI/Meshes"
+    }
+}

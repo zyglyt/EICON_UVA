@@ -1,0 +1,6 @@
+jaka_arm
+/home/q/jaka/devel/.private/jaka_arm/lib/jaka_arm/isaac_grasp /home/q/jaka/devel/lib/jaka_arm/isaac_grasp
+/home/q/jaka/devel/.private/jaka_arm/lib/jaka_arm/isaac_jaka.py /home/q/jaka/devel/lib/jaka_arm/isaac_jaka.py
+/home/q/jaka/devel/.private/jaka_arm/lib/pkgconfig/jaka_arm.pc /home/q/jaka/devel/lib/pkgconfig/jaka_arm.pc
+/home/q/jaka/devel/.private/jaka_arm/share/jaka_arm/cmake/jaka_armConfig-version.cmake /home/q/jaka/devel/share/jaka_arm/cmake/jaka_armConfig-version.cmake
+/home/q/jaka/devel/.private/jaka_arm/share/jaka_arm/cmake/jaka_armConfig.cmake /home/q/jaka/devel/share/jaka_arm/cmake/jaka_armConfig.cmake
