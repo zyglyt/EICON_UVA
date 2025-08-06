@@ -1,0 +1,5 @@
+go2_nav
+/home/q/Go2/devel/.private/go2_nav/lib/go2_nav/lidar_localization /home/q/Go2/devel/lib/go2_nav/lidar_localization
+/home/q/Go2/devel/.private/go2_nav/lib/pkgconfig/go2_nav.pc /home/q/Go2/devel/lib/pkgconfig/go2_nav.pc
+/home/q/Go2/devel/.private/go2_nav/share/go2_nav/cmake/go2_navConfig-version.cmake /home/q/Go2/devel/share/go2_nav/cmake/go2_navConfig-version.cmake
+/home/q/Go2/devel/.private/go2_nav/share/go2_nav/cmake/go2_navConfig.cmake /home/q/Go2/devel/share/go2_nav/cmake/go2_navConfig.cmake

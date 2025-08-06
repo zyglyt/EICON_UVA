@@ -1,0 +1,1 @@
+/home/q/Go2/devel/.private/go2_nav/share/go2_nav/cmake/go2_navConfig-version.cmake

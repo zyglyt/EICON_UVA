@@ -1,0 +1,1 @@
+/home/q/Go2/devel/.private/go_arm/share/roseus/ros/go_arm/manifest.l

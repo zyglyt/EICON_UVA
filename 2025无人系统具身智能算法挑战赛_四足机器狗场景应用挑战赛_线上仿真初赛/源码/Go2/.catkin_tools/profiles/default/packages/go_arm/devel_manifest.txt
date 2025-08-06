@@ -1,0 +1,22 @@
+go_arm
+/home/q/Go2/devel/.private/go_arm/include/go_arm/Mycaryolo.h /home/q/Go2/devel/include/go_arm/Mycaryolo.h
+/home/q/Go2/devel/.private/go_arm/lib/go_arm/go2_yolov8 /home/q/Go2/devel/lib/go_arm/go2_yolov8
+/home/q/Go2/devel/.private/go_arm/lib/go_arm/go2_grasp /home/q/Go2/devel/lib/go_arm/go2_grasp
+/home/q/Go2/devel/.private/go_arm/lib/go_arm/go2_yolov8.py /home/q/Go2/devel/lib/go_arm/go2_yolov8.py
+/home/q/Go2/devel/.private/go_arm/lib/python3/dist-packages/go_arm/__init__.py /home/q/Go2/devel/lib/python3/dist-packages/go_arm/__init__.py
+/home/q/Go2/devel/.private/go_arm/lib/python3/dist-packages/go_arm/msg/_Mycaryolo.py /home/q/Go2/devel/lib/python3/dist-packages/go_arm/msg/_Mycaryolo.py
+/home/q/Go2/devel/.private/go_arm/lib/python3/dist-packages/go_arm/msg/__init__.py /home/q/Go2/devel/lib/python3/dist-packages/go_arm/msg/__init__.py
+/home/q/Go2/devel/.private/go_arm/lib/pkgconfig/go_arm.pc /home/q/Go2/devel/lib/pkgconfig/go_arm.pc
+/home/q/Go2/devel/.private/go_arm/share/gennodejs/ros/go_arm/_index.js /home/q/Go2/devel/share/gennodejs/ros/go_arm/_index.js
+/home/q/Go2/devel/.private/go_arm/share/gennodejs/ros/go_arm/msg/_index.js /home/q/Go2/devel/share/gennodejs/ros/go_arm/msg/_index.js
+/home/q/Go2/devel/.private/go_arm/share/gennodejs/ros/go_arm/msg/Mycaryolo.js /home/q/Go2/devel/share/gennodejs/ros/go_arm/msg/Mycaryolo.js
+/home/q/Go2/devel/.private/go_arm/share/go_arm/cmake/go_armConfig-version.cmake /home/q/Go2/devel/share/go_arm/cmake/go_armConfig-version.cmake
+/home/q/Go2/devel/.private/go_arm/share/go_arm/cmake/go_arm-msg-extras.cmake /home/q/Go2/devel/share/go_arm/cmake/go_arm-msg-extras.cmake
+/home/q/Go2/devel/.private/go_arm/share/go_arm/cmake/go_armConfig.cmake /home/q/Go2/devel/share/go_arm/cmake/go_armConfig.cmake
+/home/q/Go2/devel/.private/go_arm/share/go_arm/cmake/go_arm-msg-paths.cmake /home/q/Go2/devel/share/go_arm/cmake/go_arm-msg-paths.cmake
+/home/q/Go2/devel/.private/go_arm/share/common-lisp/ros/go_arm/msg/go_arm-msg.asd /home/q/Go2/devel/share/common-lisp/ros/go_arm/msg/go_arm-msg.asd
+/home/q/Go2/devel/.private/go_arm/share/common-lisp/ros/go_arm/msg/_package.lisp /home/q/Go2/devel/share/common-lisp/ros/go_arm/msg/_package.lisp
+/home/q/Go2/devel/.private/go_arm/share/common-lisp/ros/go_arm/msg/_package_Mycaryolo.lisp /home/q/Go2/devel/share/common-lisp/ros/go_arm/msg/_package_Mycaryolo.lisp
+/home/q/Go2/devel/.private/go_arm/share/common-lisp/ros/go_arm/msg/Mycaryolo.lisp /home/q/Go2/devel/share/common-lisp/ros/go_arm/msg/Mycaryolo.lisp
+/home/q/Go2/devel/.private/go_arm/share/roseus/ros/go_arm/manifest.l /home/q/Go2/devel/share/roseus/ros/go_arm/manifest.l
+/home/q/Go2/devel/.private/go_arm/share/roseus/ros/go_arm/msg/Mycaryolo.l /home/q/Go2/devel/share/roseus/ros/go_arm/msg/Mycaryolo.l

@@ -1,8 +1,0 @@
-# 请求
-string label            
-geometry_msgs/PoseStamped source  
-geometry_msgs/PoseStamped target  
----
-# 响应
-bool success                    
-string message                    

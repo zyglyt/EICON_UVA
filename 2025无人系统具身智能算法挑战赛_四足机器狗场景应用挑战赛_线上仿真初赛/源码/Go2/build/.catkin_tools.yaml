@@ -1,0 +1,6 @@
+devel_space: /home/q/Go2/devel
+install: false
+install_space: /home/q/Go2/install
+profile: default
+source_space: /home/q/Go2/src
+workspace: /home/q/Go2

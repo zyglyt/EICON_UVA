@@ -1,0 +1,8 @@
+prefix=/home/q/Go2/install
+
+Name: go_arm
+Description: Description of go_arm
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

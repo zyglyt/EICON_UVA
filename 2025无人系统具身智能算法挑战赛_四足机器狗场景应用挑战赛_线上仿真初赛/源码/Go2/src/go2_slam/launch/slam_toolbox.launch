@@ -1,0 +1,10 @@
+<launch>
+  <param name="use_sim_time" value="true"/>
+
+  <node pkg="slam_toolbox"
+        type="sync_slam_toolbox_node"
+        name="slam_toolbox"
+        output="screen">
+    <rosparam command="load" file="$(find go2_slam)/config/sync.yaml" />
+  </node>
+</launch>

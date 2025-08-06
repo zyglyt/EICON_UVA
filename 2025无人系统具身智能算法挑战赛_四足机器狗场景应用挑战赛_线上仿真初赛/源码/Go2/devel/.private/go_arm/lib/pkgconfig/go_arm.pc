@@ -1,0 +1,8 @@
+prefix=/home/q/Go2/devel/.private/go_arm
+
+Name: go_arm
+Description: Description of go_arm
+Version: 0.0.0
+Cflags: -I/home/q/Go2/devel/.private/go_arm/include
+Libs: -L${prefix}/lib 
+Requires: 

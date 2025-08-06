@@ -1,0 +1,1 @@
+/home/q/Go2/devel/.private/go2_scale/lib/pkgconfig/go2_scale.pc

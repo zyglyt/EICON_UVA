@@ -1,0 +1,8 @@
+机械狗
+1. roscore
+2. sh run_go2_sim.sh(在bash环境下)
+3. conda deactivate;      roslaunch go2_slam go2_bring.launch
+4. conda activate inference ;        rosrun go2_scale go2_scale.py      询问方式：开始导航     开始巡线
+5. conda activate yolov8        rosrun go_arm go2_yolov8.py
+机械臂
+

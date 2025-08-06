@@ -1,0 +1,16 @@
+<launch>
+    <param name="use_sim_time" value="true"/>
+    <!-- 启动AMCL节点 -->
+    <include file="$(find go2_nav)/launch/amcl.launch" />
+    <node pkg="go2_nav"
+            type="lidar_localization"
+            name="lidar_localization"
+            output="screen">
+    </node>
+    <!-- 运行move_base节点 -->
+    <include file="$(find go2_nav)/launch/move_base.launch" />
+    <node name="map_server" pkg="map_server" type="map_server" args="$(find go2_nav)/map/nav.yaml"/>
+    <!-- 运行rviz -->
+    <node pkg="rviz" type="rviz" name="rviz" args="-d $(find go2_nav)/config/go2.rviz" />
+
+</launch>

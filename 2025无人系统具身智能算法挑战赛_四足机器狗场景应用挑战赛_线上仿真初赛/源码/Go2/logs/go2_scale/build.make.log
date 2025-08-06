@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target go_command_interface[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/go_command_interface.dir/src/go_command_interface.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/q/Go2/devel/.private/go2_scale/lib/go2_scale/go_command_interface[0m
+[100%] Built target go_command_interface

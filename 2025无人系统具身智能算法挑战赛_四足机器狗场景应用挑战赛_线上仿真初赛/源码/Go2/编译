@@ -1,0 +1,1 @@
+catkin config --cmake-args -DPYTHON_EXECUTABLE=/usr/bin/python3

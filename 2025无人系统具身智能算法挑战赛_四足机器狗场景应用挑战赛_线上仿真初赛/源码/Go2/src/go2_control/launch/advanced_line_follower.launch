@@ -1,0 +1,15 @@
+<launch>
+  <node pkg="go2_control"
+        type="advanced_line_follower"
+        name="advanced_line_follower"
+        output="screen">
+
+    <param name="linear_speed" value="0.42"   />
+    <param name="pid_kp"       value="0.01"  />
+    <param name="pid_kd"       value="0.0015" />
+    <param name="scan_rows"    value="10"     />
+
+    <rosparam file="$(find go2_control)/config/bev.yaml" command="load" />
+  </node>
+  <node pkg="go2_scale" type="go_command_interface" name="go_command_interface" output="screen" />
+</launch>

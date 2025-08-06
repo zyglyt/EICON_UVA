@@ -1,0 +1,39 @@
+<launch>
+  <param name="use_sim_time" value="true"/>
+
+  <node pkg="go2_control"
+        type="go2_vel"
+        name="go2_vel"
+        output="screen">
+  </node>
+  <node pkg="go2_slam"
+        type="point_scan"
+        name="point_scan"
+        output="screen">
+  </node>
+  <node pkg="go_arm"
+        type="go2_yolov8"
+        name="go2_yolov8"
+        output="screen">
+  </node>
+  <node pkg="go_arm"
+        type="go2_grasp"
+        name="go2_grasp"
+        output="screen">
+  </node>
+
+  <!-- <node pkg="tf" type="static_transform_publisher" name="lidar_flip"
+        args="0 0 0.6 3.1415926 0 0  base_link   lidar  100"/> -->
+
+  <!-- <node pkg="slam_toolbox"
+        type="sync_slam_toolbox_node"
+        name="slam_toolbox"
+        output="screen">
+    <rosparam command="load" file="$(find go2_slam)/config/sync.yaml" />
+  </node> -->
+
+   <include file="$(find go2_nav)/launch/nav.launch" />
+   <include file="$(find go2_control)/launch/advanced_line_follower.launch" />
+
+
+</launch>

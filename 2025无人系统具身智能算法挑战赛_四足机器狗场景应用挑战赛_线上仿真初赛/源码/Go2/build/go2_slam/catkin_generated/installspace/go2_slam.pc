@@ -1,0 +1,8 @@
+prefix=/home/q/Go2/install
+
+Name: go2_slam
+Description: Description of go2_slam
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
